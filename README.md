@@ -4,12 +4,7 @@
 
 A Machine Learning based web application that predicts heart disease risk using patient health parameters.
 
-The project uses a trained Machine Learning model and provides an interactive healthcare dashboard built using Streamlit.
-
-
-## 📸 Application Preview
-
-![CardioNova AI Dashboard]![alt text](image.png)
+The project uses a trained Machine Learning model and provides an interactive healthcare dashboard built using Streamlit
 
 
 ## ✨ Features
